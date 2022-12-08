@@ -133,8 +133,6 @@ public class Aims {
                                     }
                                 }
                                 break;
-
-
                             case 2:
 
                                 System.out.println("Enter the ID of the media");
